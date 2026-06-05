@@ -1,7 +1,7 @@
 # ai-course-lab0
 
 Course: Introduction to Artificial Intelligence
-Semester: Spring 2026
+Semester: 4 (Summer 2026)
 Name: Gorpu Amber Raizel Keller
 Student ID: 73972028
 
